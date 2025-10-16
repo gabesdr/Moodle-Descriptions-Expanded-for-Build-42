@@ -1,0 +1,44 @@
+version=1
+id=3389003300
+title=[B42] Moodle Descriptions Expanded
+description=[i]The older descriptions have different moodle icons made by Muhrakk - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3387102991]Moodles Re-Animated[/url][/i]
+description=
+description=[H1]Version 1.24 - Update 24[/h1]
+description=Track the progress of updates here: [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3389003300]Changelog[/url]
+description=
+description=[H3]Mod Overview[/h3]
+description=MDE aims to re-write vanilla descriptions to be less vague and provide players with more informational negative or positive status effects caused by in game Moodles by introducing the appropriate +/-% and qualitative ratings to indicate severity of status effects.
+description=
+description=All descriptions should be represented accurately according to [url=https://pzwiki.net/wiki/Moodle]PZWiki Moodles[/url].
+description=
+description=[h3]Compatability[/h3]
+description=• Compatible with everything that does not change Moodle descriptions.
+description=• For the best possible compatability, just to be sure. Enable the mod after any moodle mod.
+description=• Ongoing save compatible.
+description=
+description=Recommended to be used with this mod by Jetmax937
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3387957272] [B42] Detailed Descriptions for Occupations & Traits[/url]
+description=
+description=[h3]Translations[/h3]
+description=German (DE) - Gabes ([b]help needed lol. - Unfinished/Unsupported[/b])
+description=Español (ES) - Fiercefern5554
+description=French (FR) - Furthick
+description=Russian (RU) - Guzzlo
+description=Brazilian Portuguese (PTBR) - Vinicius
+description=Chinese (Traditional) - ??
+description=Turkish (TR) - Borzoi_07
+description=[url=https://steamcommunity.com/workshop/filedetails/discussion/3389003300/595136433013931826/]Contribute to translating the mod here.[/url]
+description=
+description=[img]https://steamuserimages-a.akamaihd.net/ugc/819002974403344349/DD18664314A26EA83C62E9B0127FFCB35092B53A/[/img]
+description=
+description=[hr][/hr]
+description=[quote]
+description=Other works from Gabe for Project Zomboid:
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3388063082] Steam Link to [B42] How to Gunplay[/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3390206992] Steam Link to the Icelandic Community Translation Mod - Ongoing development[/url]
+description=[/quote]
+description=[quote]
+description=Workshop ID: 3389003300
+description=Mod ID: B42MoodleDescriptionsExpanded
+tags=Build 42;Balance;Interface;Language/Translation;Misc;Realistic;Silly/Fun;QoL
+visibility=public
